@@ -2,6 +2,9 @@
 
 A Google Chrome extension that allows you to import / export bookmarks in JSON format.
 
+Find it in the Store: 
+https://chrome.google.com/webstore/detail/js-bookmark-importer/fcagljipfanjdjphdfhfehfdjkpiefbd?utm_source=chrome-app-launcher-info-dialog.
+
 ## JSON format
 The expected / generated format is as follows:
 ```
